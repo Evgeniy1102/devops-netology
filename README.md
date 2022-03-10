@@ -5,3 +5,4 @@
 Любые файлы override
 Конфигурационные файлы .terraformrc и terraform.rc
 new line
+Отредактированно через PyCharm
