@@ -4,3 +4,4 @@
 Файлы с именем "tfvars" после точки
 Любые файлы override
 Конфигурационные файлы .terraformrc и terraform.rc
+new line
